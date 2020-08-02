@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.cu": "cpp",
+    "*.cuh": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "limits": "cpp",
+    "valarray": "cpp",
+    "algorithm": "cpp"
+  }
+}
